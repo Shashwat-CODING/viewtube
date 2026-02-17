@@ -24,7 +24,7 @@ dist
 out
 channels
 tests
-scripts
+
 client/node_modules
 client/.output
 client/.nuxt
