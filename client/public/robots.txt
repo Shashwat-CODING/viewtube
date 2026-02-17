@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: /subscriptions
-Disallow: /subscriptions/manage
-Disallow: /profile
-Disallow: /history
-Disallow: /admin
